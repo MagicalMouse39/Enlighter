@@ -9,6 +9,8 @@ namespace EnlighterRemote
 {
     class EnlighterUI : Form
 	{
+
+        private EnlightmentUtils utils;
 		private Label label1;
 		private Label label3;
 		private TextBox InputMAC;
@@ -18,6 +20,7 @@ namespace EnlighterRemote
 
 		private void InitializeComponent()
 		{
+            this.utils = new EnlightmentUtils();
             this.label1 = new System.Windows.Forms.Label();
             this.InputIP = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -100,6 +103,20 @@ namespace EnlighterRemote
             this.Controls.Add(this.label1);
             this.Name = "EnlighterUI";
             this.Text = "Enlighter";
+
+            this.BtnON.Click += (s, e) =>
+                utils.SendMagicPacket(InputIP.Text, InputMAC.Text);
+
+
+
+            this.BtnOFF.Click += (s, e) =>
+            {
+
+                utils.(InputIP.Text, InputMAC.Text);
+
+            };
+
+
             this.ResumeLayout(false);
             this.PerformLayout();
 
