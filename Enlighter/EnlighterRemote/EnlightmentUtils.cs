@@ -11,7 +11,10 @@ namespace EnlighterRemote
     {
         public void SendMagicPacket(string ip, string mac)
         {
-            if (ip.Trim() == string.Empty)
+            ip = ip.Trim();
+            mac = mac.Trim();
+
+            if (ip == string.Empty)
                 ip = "255.255.255.255";
 
             if (ip.Length == 17)
