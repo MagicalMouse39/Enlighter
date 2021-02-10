@@ -32,6 +32,15 @@ namespace EnlighterRemote
                      .ToArray();
 
             TcpClient client = new TcpClient();
+            client.Connect(ip, 9);
+            client.GetStream().Write(packet, 0, packet.Length);
+            client.Close();
+
+        }
+
+        public void SendGoodbyePacket(string ip)
+        {
+
         }
     }
 }
