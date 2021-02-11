@@ -1,0 +1,7 @@
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\bin\Debug\EnlighterReceiver.exe.config
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\bin\Debug\EnlighterReceiver.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\bin\Debug\EnlighterReceiver.pdb
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\obj\Debug\EnlighterReceiver.csprojAssemblyReference.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\obj\Debug\EnlighterReceiver.csproj.CoreCompileInputs.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\obj\Debug\EnlighterReceiver.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterReceiver\obj\Debug\EnlighterReceiver.pdb

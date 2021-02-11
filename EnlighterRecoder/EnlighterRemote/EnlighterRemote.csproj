@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9503900E-8B6B-4BD9-80D4-CF287F144668}</ProjectGuid>
+    <ProjectGuid>{536C07E8-B91C-4637-B5B3-3A21099FC1D0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>EnlighterRemote</RootNamespace>
     <AssemblyName>EnlighterRemote</AssemblyName>
@@ -51,17 +51,28 @@
     <Compile Include="EnlighterUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EnlightmentUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="EnlighterUI.resx">
-      <DependentUpon>EnlighterUI.cs</DependentUpon>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OFF.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

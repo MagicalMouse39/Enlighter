@@ -5,3 +5,12 @@ C:\Users\marco\Desktop\Sistemi  e Reti\AccensioneRemoto\Enlighter\Enlighter\Enli
 C:\Users\marco\Desktop\Sistemi  e Reti\AccensioneRemoto\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.csproj.CoreCompileInputs.cache
 C:\Users\marco\Desktop\Sistemi  e Reti\AccensioneRemoto\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.exe
 C:\Users\marco\Desktop\Sistemi  e Reti\AccensioneRemoto\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.pdb
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\bin\Debug\EnlighterRemote.exe.config
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\bin\Debug\EnlighterRemote.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\bin\Debug\EnlighterRemote.pdb
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.csprojAssemblyReference.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.EnlighterUI.resources
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.csproj.GenerateResource.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.csproj.CoreCompileInputs.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\Enlighter\EnlighterRemote\obj\Debug\EnlighterRemote.pdb

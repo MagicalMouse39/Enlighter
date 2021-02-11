@@ -1,0 +1,8 @@
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\bin\Debug\EnlighterRemote.exe.config
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\bin\Debug\EnlighterRemote.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\bin\Debug\EnlighterRemote.pdb
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\obj\Debug\EnlighterRemote.csproj.CoreCompileInputs.cache
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\obj\Debug\EnlighterRemote.exe
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\obj\Debug\EnlighterRemote.pdb
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\obj\Debug\EnlighterRemote.Resources.resources
+E:\Programming\Ethical\Years\20-21\NET\C#\Enlighter\EnlighterRecoder\EnlighterRemote\obj\Debug\EnlighterRemote.csproj.GenerateResource.cache

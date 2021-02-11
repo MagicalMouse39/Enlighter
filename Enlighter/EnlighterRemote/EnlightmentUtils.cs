@@ -17,7 +17,7 @@ namespace EnlighterRemote
             if (ip == string.Empty)
                 ip = "255.255.255.255";
 
-            if (ip.Length == 17)
+            if (mac.Length == 17)
             {
                 char separator = mac[2];
                 mac = mac.Replace(separator.ToString(), "");
